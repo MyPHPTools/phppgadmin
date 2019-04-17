@@ -1,2 +1,7 @@
 selenium/tests/config.inc.php
 tests/selenium/config.test.php
+.idea
+.htaccess
+.user.ini
+404.html
+index.html
